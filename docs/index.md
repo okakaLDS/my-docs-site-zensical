@@ -27,16 +27,16 @@ status: "公開中"
 
     ## 章の構成
 
-    <div class="docs-card-grid" markdown>
-    <a class="docs-card" href="01-setup/01-python-setup/"><strong>1. Python環境の準備</strong><br>MkDocsを動かすための土台づくり</a>
-    <a class="docs-card" href="01-setup/02-mkdocs-install/"><strong>2. mkdocsのインストールとサイト作成</strong><br>サイトの雛形を作る</a>
-    <a class="docs-card" href="02-github-publish/03-github-repo/"><strong>3. GitHubリポジトリの作成とpush</strong><br>コードをGitHubに置く</a>
-    <a class="docs-card" href="02-github-publish/04-github-actions/"><strong>4. GitHub Actionsによる自動デプロイ</strong><br>push→公開を自動化する</a>
-    <a class="docs-card" href="02-github-publish/05-github-pages/"><strong>5. GitHub Pagesの公開設定</strong><br>公開のスイッチを入れる</a>
-    <a class="docs-card" href="03-local-dev/06-local-preview/"><strong>6. ローカルでのプレビュー方法</strong><br>公開前に手元で確認する</a>
-    <a class="docs-card" href="04-customization/07-customization/"><strong>7. サイトデザインのカスタマイズ</strong><br>配色・ナビゲーション・コードブロックを整える</a>
-    <a class="docs-card" href="04-customization/08-mermaid-and-revision-date/"><strong>8. 図解(Mermaid)と改定履歴</strong><br>設計書向けに図と改定履歴の管理方法を追加する</a>
-    </div>
+    | 章 | 内容 |
+    |---|---|
+    | [1. Python環境の準備](01-setup/01-python-setup.md) | MkDocsを動かすための土台づくり |
+    | [2. mkdocsのインストールとサイト作成](01-setup/02-mkdocs-install.md) | サイトの雛形を作る |
+    | [3. GitHubリポジトリの作成とpush](02-github-publish/03-github-repo.md) | コードをGitHubに置く |
+    | [4. GitHub Actionsによる自動デプロイ](02-github-publish/04-github-actions.md) | push→公開を自動化する |
+    | [5. GitHub Pagesの公開設定](02-github-publish/05-github-pages.md) | 公開のスイッチを入れる |
+    | [6. ローカルでのプレビュー方法](03-local-dev/06-local-preview.md) | 公開前に手元で確認する |
+    | [7. サイトデザインのカスタマイズ](04-customization/07-customization.md) | 配色・ナビゲーション・コードブロックを整える |
+    | [8. 図解(Mermaid)と改定履歴](04-customization/08-mermaid-and-revision-date.md) | 設計書向けに図と改定履歴の管理方法を追加する |
 
     ## このサイトのその他の機能
 
