@@ -6,6 +6,23 @@ theme:
   language: ja
   logo: images/logo.png
   favicon: images/favicon.png
+  icon:
+    admonition:
+      note: lucide/notepad-text
+      abstract: lucide/book-open-text
+      info: lucide/info
+      tip: lucide/lightbulb
+      success: lucide/circle-check-big
+      question: lucide/circle-help
+      warning: lucide/triangle-alert
+      failure: lucide/search-x
+      danger: lucide/skull
+      bug: lucide/bug
+      example: lucide/flask-conical
+      quote: lucide/quote
+    previous: lucide/arrow-left
+    next: lucide/arrow-right
+    top: lucide/chevron-up
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
