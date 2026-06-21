@@ -4,6 +4,8 @@ tags:
   - GitHub公開
   - Git
 status: "完了"
+category: "GitHub公開"
+difficulty: "初級"
 ---
 
 # 3. GitHubリポジトリの作成とpush

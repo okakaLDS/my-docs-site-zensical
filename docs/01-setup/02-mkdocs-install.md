@@ -4,6 +4,8 @@ tags:
   - セットアップ
   - mkdocs
 status: "完了"
+category: "セットアップ"
+difficulty: "初級"
 ---
 
 # 2. mkdocsのインストールとサイト作成

@@ -4,6 +4,8 @@ tags:
   - GitHub公開
   - 公開設定
 status: "完了"
+category: "GitHub公開"
+difficulty: "初級"
 ---
 
 # 5. GitHub Pagesの公開設定

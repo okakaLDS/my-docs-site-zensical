@@ -4,6 +4,8 @@ tags:
   - GitHub公開
   - CI/CD
 status: "完了"
+category: "GitHub公開"
+difficulty: "中級"
 ---
 
 # 4. GitHub Actionsによる自動デプロイ

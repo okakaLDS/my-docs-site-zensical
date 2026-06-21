@@ -5,6 +5,8 @@ tags:
   - Mermaid
   - 改定履歴
 status: "完了"
+category: "デザインのカスタマイズ"
+difficulty: "中級"
 ---
 
 # 8. 図解(Mermaid)と改定履歴

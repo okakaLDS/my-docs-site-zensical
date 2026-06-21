@@ -4,6 +4,8 @@ tags:
   - セットアップ
   - Python
 status: "完了"
+category: "セットアップ"
+difficulty: "初級"
 ---
 
 # 1. Python環境の準備
