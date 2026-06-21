@@ -1,5 +1,5 @@
 site_name: My Docs
-site_url: https://okakaLDS.github.io/my-docs-site/
+site_url: https://okakaLDS.github.io/my-docs-site-zensical/
 
 theme:
   name: material
@@ -39,9 +39,9 @@ theme:
 
 extra:
   github_user: okakaLDS
-  repo_name: my-docs-site
-  repo_url: https://github.com/okakaLDS/my-docs-site
-  site_base_url: https://okakalds.github.io/my-docs-site/
+  repo_name: my-docs-site-zensical
+  repo_url: https://github.com/okakaLDS/my-docs-site-zensical
+  site_base_url: https://okakalds.github.io/my-docs-site-zensical/
 
 markdown_extensions:
   - admonition
